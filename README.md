@@ -2,6 +2,11 @@
 <p>This guide provides a clear, step-by-step method to bypass IP bans in League of Legends, ensuring it works effectively for PC users. The process involves mandatory steps that must be followed in sequence to maximize your chances of regaining access.</p>
 <img src="https://img.shields.io/badge/Read%20the%20full%20guide%20here-blue?style=for-the-badge" alt="Read the full guide here" onclick="window.location.href='https://slothytech.com/ip-ban/'" style="cursor: pointer;">
 
+<h2>If You Are HWID Banned</h2>
+<p>If you suspect you’re facing a Hardware ID (HWID) ban in League of Legends, which goes beyond just an IP ban, follow this additional guide. HWID bans target your device’s unique hardware identifiers, requiring more advanced steps to bypass.</p>
+<p><a href="https://www.youtube.com/watch?v=b8XyEwxpccE"><img src="https://img.youtube.com/vi/b8XyEwxpccE/0.jpg" alt="How to Bypass HWID Ban Video Thumbnail" width="320" height="180"></a></p>
+<p><a href="https://www.youtube.com/watch?v=b8XyEwxpccE">Watch the Full HWID Ban Bypass Guide Here</a></p>
+
 <h2>Key Points</h2>
 <ul>
     <li>Research suggests that bypassing an IP ban in League of Legends requires a combination of changing your IP address, clearing stored data, reinstalling the game, and adjusting your MAC address if needed.</li>
@@ -79,11 +84,6 @@
     <li><strong>Step 4 (Changing MAC Address):</strong> Covers any additional network-level bans tied to your device’s hardware ID.</li>
 </ul>
 <p>By following all steps, you tackle the ban from multiple angles—network, client data, and hardware—making it harder for Riot Games to recognize you as the banned player.</p>
-
-<h2>If You Are HWID Banned</h2>
-<p>If you suspect you’re facing a Hardware ID (HWID) ban in League of Legends, which goes beyond just an IP ban, follow this additional guide. HWID bans target your device’s unique hardware identifiers, requiring more advanced steps to bypass.</p>
-<p><a href="https://www.youtube.com/watch?v=b8XyEwxpccE"><img src="https://img.youtube.com/vi/b8XyEwxpccE/0.jpg" alt="How to Bypass HWID Ban Video Thumbnail" width="320" height="180"></a></p>
-<p><a href="https://www.youtube.com/watch?v=b8XyEwxpccE">Watch the Full HWID Ban Bypass Guide Here</a></p>
 
 <h2>Tips for Success</h2>
 <ul>
